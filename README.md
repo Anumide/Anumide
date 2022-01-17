@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Frontend Web Developer based in Lagos, Nigeria.
+>🌱 I’m currently learning Vue.js, Next.js and also working on my Technical Writing skill
+
+
+### �I write:
+
+- HTMl
+- CSS
+- SASS
+- JavaScript
+- Tailwind
+- Vue
+- Bootstrap 5
+- GIt and Github
+
+### ⚡ Fun fact: 
+
+### 😄 Pronouns: He/ Him
+
+### 📫 How to reach me:
+
