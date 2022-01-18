@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Frontend Web Developer based in Lagos, Nigeria. I'm a full-time Front-end developer who is motivated to combine the art of design with the art of programming
+I am ALABA SAMUEL AYOMIDE. A full-time Front-end developer who is motivated to combine the art of design with the art of programming
 >🌱 I’m currently learning Vue.js, Next.js and also working on my Technical Writing skill
 
 
