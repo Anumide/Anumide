@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Frontend Web Developer based in Lagos, Nigeria.
+I am a Frontend Web Developer based in Lagos, Nigeria. I'm a full-time Front-end developer who is motivated to combine the art of design with the art of programming
 >🌱 I’m currently learning Vue.js, Next.js and also working on my Technical Writing skill
 
 
@@ -30,9 +30,23 @@ I am a Frontend Web Developer based in Lagos, Nigeria.
 - Bootstrap 5
 - GIt and Github
 
-### ⚡ Fun fact: 
+### I like😁:
+
+- To play video games
+
+- To listen to music(where I get inspired sometimes)
+
+- To have fun🤪
+
+### ⚡ Fun fact: I play the Saxophone and piano(occasionally)🙈
 
 ### 😄 Pronouns: He/ Him
 
 ### 📫 How to reach me:
+
+》Twitter: https://twitter.com/Anu_mide
+
+》Email: alabasamuelayomide3@gmail.com 
+
+》LinkedIn: https://www.linkedin.com/in/alaba-samuel
 
