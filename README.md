@@ -30,6 +30,7 @@ I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end develo
 - Vue
 - Nuxt
 - Vuex
+- Pinia
 - Bootstrap 5
 - GIt and Github
 - TypeScript
