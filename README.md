@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end developer with over one and half years of working experience. I am constantly motivated to combine the art of design with the art of programming and my passion and eagerness has led or rather is leading me to learning new skills that certainly makes me more effective.
 
->🌱 I’m currently learning Web3 and also mastering my Nuxt skills
+>🌱 I’m currently learning Web3
 
 
 ### �I write:
@@ -31,9 +31,10 @@ I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end develo
 - Nuxt
 - Vuex
 - Pinia
-- Bootstrap 5
+- Bootstrap
 - GIt and Github
 - TypeScript
+- Graphql
 
 ### I like😁:
 
