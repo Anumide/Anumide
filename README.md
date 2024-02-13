@@ -30,11 +30,13 @@ I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end develo
 - Vue
 - Nuxt
 - Vuex
+- VueApollo
 - Pinia
 - Bootstrap
 - GIt and Github
 - TypeScript
 - Graphql
+- Cypress
 
 ### I like😁:
 
