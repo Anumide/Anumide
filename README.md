@@ -37,6 +37,7 @@ I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end develo
 - TypeScript
 - Graphql
 - Cypress
+- gsap
 
 ### I like😁:
 
