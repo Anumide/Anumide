@@ -60,3 +60,7 @@ I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end develo
 
 》LinkedIn: https://www.linkedin.com/in/alaba-samuel
 
+》Resume: https://drive.google.com/file/d/1scjENjQh0dfBHPCupRApTvdhAZDcF4FF/view?usp=sharing
+
+
+
