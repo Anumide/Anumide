@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end developer with over one and half years of working experience. I am constantly motivated to combine the art of design with the art of programming and my passion and eagerness has led or rather is leading me to learning new skills that certainly makes me more effective.
+I am ALABA SAMUEL AYOMIDE. A highly driven front‑end Software Developer with a talent for translating design concepts into interactive, visually compelling user interfaces. Skilled
+in a wide range of front‑end technologies and dedicated to delivering top‑tier solutions that consistently surpass client expectations. Eager to
+collaborate with forward‑thinking teams to create innovative and impactful digital experiences.
 
 >🌱 I’m currently learning Web3
 
@@ -38,7 +40,7 @@ I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end develo
 - TypeScript
 - Graphql
 - Cypress
-- gsap
+- Gsap
 
 ### I like😁:
 
@@ -61,6 +63,8 @@ I am ALABA SAMUEL AYOMIDE. A dedicated passion-driven full-time Front-end develo
 》LinkedIn: https://www.linkedin.com/in/alaba-samuel
 
 》Resume: https://drive.google.com/file/d/1scjENjQh0dfBHPCupRApTvdhAZDcF4FF/view?usp=sharing
+
+》Articles: https://anumide.hashnode.dev
 
 
 
